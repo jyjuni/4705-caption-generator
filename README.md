@@ -14,5 +14,13 @@ This project is consists of the following components:
 - Add the image input to write an LSTM caption generator.
 - Implement beam search for the image caption generator.
 
+## Model
+
+The conditional generator takes in encoded text and encoded image vector as input. Image vectors are encoded using InceptionV3. The encoded image is taken as additional context input and feed into a customized bi-LSTM generator.
+
+
+
+![Screen Shot 2022-07-27 at 5.38.49 PM](README.assets/Screen Shot 2022-07-27 at 5.38.49 PM.png)
+
 ## Reference
 http://www.phontron.com/slides/nlp-programming-en-13-search.pdf
