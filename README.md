@@ -13,3 +13,6 @@ This project is consists of the following components:
 - Write a decoder function for the language generator.
 - Add the image input to write an LSTM caption generator.
 - Implement beam search for the image caption generator.
+
+## Reference
+http://www.phontron.com/slides/nlp-programming-en-13-search.pdf
