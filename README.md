@@ -20,7 +20,7 @@ The conditional generator takes in encoded text and encoded image vector as inpu
 
 
 
-![Screen Shot 2022-07-27 at 5.38.49 PM](README.assets/Screen Shot 2022-07-27 at 5.38.49 PM.png)
+<img src="README.assets/Screen Shot 2022-07-27 at 5.38.49 PM.png" alt="Screen Shot 2022-07-27 at 5.38.49 PM" style="zoom:50%;" />
 
 ## Reference
 http://www.phontron.com/slides/nlp-programming-en-13-search.pdf
